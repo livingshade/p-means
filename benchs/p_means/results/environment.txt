@@ -1,0 +1,3 @@
+GPU: NVIDIA H100 80GB HBM3
+Software: torch 2.15.0+cu132, triton 3.9.0
+Both sessions (the first runs, and SPACEV with the rule) used the same machine and software.
